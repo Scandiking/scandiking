@@ -6,6 +6,7 @@ I am a 31 year old student doing a B.Sc. in [Information Systems and Information
 The [soundtrack of Moto Racer](https://www.youtube.com/watch?v=OXvS28XM8NI&list=PL_BhbJAAueZRAXlV7sdOm2oOH1XHjNRvE) (1997) is still 🔥  
 <img src="https://archive.org/download/MOTORACE/motorace.jpg" alt="Motorcycle racing game" width="300"/>
 
+While I might have been introduced to computers as and for fun, I've grown to see the potential as well as the ever growing utility and use among the general population. I've seen fright for tech turn around into seeing tech as a helpful tool in assisting staff with their duties, whether that be point-of-sale systems, stock management systems or private security missions. 
 
 ### 🗂️ Ongoing projects
 
