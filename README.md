@@ -12,8 +12,8 @@ While I might have been introduced to computers as and for fun, I've grown to se
 
 - [Task management app Næg](https://github.com/Scandiking/N-g)
       Group course project. Planned to be `RC` with repo hosted on GitHub and live on Azure. Built on `React` and using [MUI](https://mui.com/) as base for the front-end
-- Email API in OBJ2100 (object-oriented programming 2)  
-      Course project in order to qualify for exam.  
+- [Email API](https://github.com/Scandiking/emailAPIserver) in OBJ2100 (object-oriented programming 2)  
+      Course project in order to qualify for exam.
 - [Task management API](https://github.com/Scandiking/taskmanager) in APP2000 (app development)  
       Course project in order to qualify for exam. Relevant for the endpoints of [Næg](https://github.com/Scandiking/N-g)
 
