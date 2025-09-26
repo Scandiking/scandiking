@@ -9,15 +9,19 @@ The [soundtrack of Moto Racer](https://www.youtube.com/watch?v=OXvS28XM8NI&list=
 While I might have been introduced to computers as and for fun, I've grown to see the potential as well as the ever growing utility and use among the general population. I've seen fright for tech turn around into seeing tech as a helpful tool in assisting staff with their duties, whether that be point-of-sale systems, stock management systems or private security missions. 
 
 ### 🗂️ Ongoing projects
+- [DartBud](https://github.com/JonasELH/DartBud)
+      Group course project. Planned to be `RC` with repo hosted on GitHub. Built with `Kotlin` in Android Studio. It is a calculator focused on doing the math while playing 501 darts with two players. The focus is first on developing the MVP, and then iterate it to support more functions, such as more players than the current two.
 
+
+
+
+### 🗄️ Former projects
 - [Task management app Næg](https://github.com/Scandiking/N-g)
       Group course project. Planned to be `RC` with repo hosted on GitHub and live on Azure. Built on `React` and using [MUI](https://mui.com/) as base for the front-end
 - [Email API](https://github.com/Scandiking/emailAPIserver) in OBJ2100 (object-oriented programming 2)  
       Course project in order to qualify for exam.
 - [Task management API](https://github.com/Scandiking/taskmanager) in APP2000 (app development)  
       Course project in order to qualify for exam. Relevant for the endpoints of [Næg](https://github.com/Scandiking/N-g)
-
-### 🗄️ Former projects
 - [Garmin Connect alternative front-end](https://github.com/Scandiking/GarminConnectMaterialDesignReactFrontend) using React and MUI (course project 1/2 in APP2000)
 - [SQL notes](https://github.com/Scandiking/DAT2K_tutorials) (DAT200, advanced database course)
 - [Tasks from the course book](https://github.com/Scandiking/Liang-Chapter-9) in OBJ2100 (Object oriented programming)
