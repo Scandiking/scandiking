@@ -9,7 +9,8 @@ The [soundtrack of Moto Racer](https://www.youtube.com/watch?v=OXvS28XM8NI&list=
 While I might have been introduced to computers as and for fun, I've grown to see the potential as well as the ever growing utility and use among the general population. I've seen fright for tech turn around into seeing tech as a helpful tool in assisting staff with their duties, whether that be point-of-sale systems, stock management systems or private security missions. 
 
 ### 🗂️ Ongoing projects
-- 🔒[DartBud](https://github.com/JonasELH/DartBud)
+- [Landlosen](https://github.com/Scandiking/Landlosen), a project as a basis for a technical interview for an internship at [SmartGIS](https://smartgis.no). It retrieves country information from [RestCountries](https://restcountries.com) API and serves it in a SvelteKit application.
+- [DartBud](https://github.com/JonasELH/DartBud)
       Group course project. Planned to be `RC` with repo hosted on GitHub. Built with `Kotlin` in Android Studio. It is a calculator focused on doing the math while playing 501 darts with two players. The focus is first on developing the MVP, and then iterate it to support more functions, such as more players than the current two.
 
 
