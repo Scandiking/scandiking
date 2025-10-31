@@ -1,12 +1,9 @@
 # Hello, World! 🌐
 
-I am a 31 year old student doing a B.Sc. in [Information Systems and Information Technology](https://www.usn.no/studier/bachelor-i-it-og-informasjonssystemer/) at University of South-Eastern Norway! I've been using computers since 1998 at 4 years old when my dad showed me Moto Racer (1997) on our Compaq Presario 5600 hidden under the desktop board because you used to hide your computers back then  
-<img src="https://live.staticflickr.com/2082/2065753043_7b16b67929_z.jpg" alt="old computer" width="300"/>  
+I am a 31 year old student doing a B.Sc. in [Information Systems and Information Technology](https://www.usn.no/studier/bachelor-i-it-og-informasjonssystemer/) at University of South-Eastern Norway! I've been using computers since 1998 at 4 years old when my dad showed me Moto Racer (1997) on our Compaq Presario 5600.
 
-The [soundtrack of Moto Racer](https://www.youtube.com/watch?v=OXvS28XM8NI&list=PL_BhbJAAueZRAXlV7sdOm2oOH1XHjNRvE) (1997) is still 🔥  
-<img src="https://archive.org/download/MOTORACE/motorace.jpg" alt="Motorcycle racing game" width="300"/>
+While I might've been introduced to computers as fun, over time it has shown its potential and evergrowing utility and use among the general population, the more refined the tools have become, and I would love to partake in that journey and make IT projects that can aid workers and ease and effectivize their work. 
 
-While I might have been introduced to computers as and for fun, I've grown to see the potential as well as the ever growing utility and use among the general population. I've seen fright for tech turn around into seeing tech as a helpful tool in assisting staff with their duties, whether that be point-of-sale systems, stock management systems or private security missions. 
 
 ### 🗂️ Ongoing projects
 - [Landlosen](https://github.com/Scandiking/Landlosen), a project as a basis for a technical interview for an internship at [SmartGIS](https://smartgis.no). It retrieves country information from [RestCountries](https://restcountries.com) API and serves it in a SvelteKit application.
