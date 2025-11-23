@@ -8,7 +8,7 @@ While I might've been introduced to computers as fun, over time it has shown its
 
 ### 🗂️ Ongoing projects
 - [Tvennings portfolio](https://scandiking.github.io/TvenningsPortfolio), an online portfolio showcasing university work. The works are divided by courses such as basic programming and system development, and further into  fractional exam qualification tests.
-- [Landlosen](https://github.com/Scandiking/Landlosen), a project as a basis for a technical interview for an internship at [SmartGIS](https://smartgis.no). It retrieves country information from [RestCountries](https://restcountries.com) API and serves it in a SvelteKit application.
+
 - [DartBud](https://github.com/JonasELH/DartBud)
       Group course project. Planned to be `RC` with repo hosted on GitHub. Built with `Kotlin` in Android Studio. It is a calculator focused on doing the math while playing 501 darts with two players. The focus is first on developing the MVP, and then iterate it to support more functions, such as more players than the current two.
 
@@ -16,6 +16,7 @@ While I might've been introduced to computers as fun, over time it has shown its
 
 
 ### 🗄️ Former projects
+- [Landlosen](https://github.com/Scandiking/Landlosen), a project as a basis for a technical interview for an internship at [SmartGIS](https://smartgis.no). It retrieves country information from [RestCountries](https://restcountries.com) API and serves it in a SvelteKit application.
 - [Task management app Næg](https://github.com/Scandiking/N-g)
       Group course project. Planned to be `RC` with repo hosted on GitHub and live on Azure. Built on `React` and using [MUI](https://mui.com/) as base for the front-end
 - [Email API](https://github.com/Scandiking/emailAPIserver) in OBJ2100 (object-oriented programming 2)  
