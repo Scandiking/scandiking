@@ -5,7 +5,7 @@
 I am a 31 year old student doing a B.Sc. in [Information Systems and Information Technology](https://www.usn.no/studier/bachelor-i-it-og-informasjonssystemer/) at University of South-Eastern Norway! I've been using computers since 1998 at 4 years old when my dad showed me Moto Racer (1997) on our Compaq Presario 5600. Getting to know webrings and GeoCities and such...
 
 ```
-![Visitor Count](https://profile-counter.glitch.me/{Scandiking}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Scandiking/count.svg)
 ```
 
 While I might've been introduced to computers as fun, over time it has shown its potential and evergrowing utility and use among the general population, the more refined the tools have become, and I would love to partake in that journey and make IT projects that can aid workers and ease and effectivize their work. 
