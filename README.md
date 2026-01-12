@@ -2,10 +2,9 @@
 
 ![A wide picture of a desk with a laptop, a coffee cup and a rubber duck](LinkedInBanner3.png)
 
-I am a 31 year old student doing a B.Sc. in [Information Systems and Information Technology](https://www.usn.no/studier/bachelor-i-it-og-informasjonssystemer/) at University of South-Eastern Norway! I've been using computers since 1998 at 4 years old when my dad showed me Moto Racer (1997) on our Compaq Presario 5600. Getting to know webrings and GeoCities and such...
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agency&weight=800&size=30&duration=2500&pause=2000&color=38F776&width=435&lines=Kristian+Martin+Tvenning;Scandiking)](https://git.io/typing-svg)
 
+I am a 31 year old student doing a B.Sc. in [Information Systems and Information Technology](https://www.usn.no/studier/bachelor-i-it-og-informasjonssystemer/) at University of South-Eastern Norway! I've been using computers since 1998 at 4 years old when my dad showed me Moto Racer (1997) on our Compaq Presario 5600. Getting to know webrings and GeoCities and such...
 
 While I might've been introduced to computers as fun, over time it has shown its potential and evergrowing utility and use among the general population, the more refined the tools have become, and I would love to partake in that journey and make IT projects that can aid workers and ease and effectivize their work. 
 
