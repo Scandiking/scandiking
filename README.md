@@ -3,6 +3,7 @@
 ![A wide picture of a desk with a laptop, a coffee cup and a rubber duck](LinkedInBanner3.png)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Agency&weight=800&size=30&duration=2500&pause=2000&color=38F776&width=435&lines=Kristian+Martin+Tvenning;Scandiking)](https://git.io/typing-svg)
+<a href="https://www.linkedin.com/in/kristian-martin-tvenning-77475773/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
 I am a 31 year old student doing a B.Sc. in [Information Systems and Information Technology](https://www.usn.no/studier/bachelor-i-it-og-informasjonssystemer/) at University of South-Eastern Norway! I've been using computers since 1998 at 4 years old when my dad showed me Moto Racer (1997) on our Compaq Presario 5600. Getting to know webrings and GeoCities and such...
 
