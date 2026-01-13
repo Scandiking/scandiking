@@ -34,9 +34,14 @@ I'm a 31-year-old B.Sc. student in [Information Systems and Information Technolo
   
 ### 🎖️ Certifications
 
+- [Python Essentials 1](https://www.credly.com/badges/4ccd8174-71d6-400c-8e2f-b476d012af9c/public_url)
 - [JavaScript Essentials 1](JavaScriptEssentials1Update20250224-28-t9r9h2.pdf)
 - [Microsoft AZ-900](USN-AZ900-2025-003.pdf)
 - [Programming Hub Python 3](certificate_1707419695401.pdf)
+
+<html>
+      <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4ccd8174-71d6-400c-8e2f-b476d012af9c" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+</html>
 
 ### 
 
