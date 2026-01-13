@@ -6,9 +6,7 @@
 
 <a href="https://www.linkedin.com/in/kristian-martin-tvenning-77475773/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
 
-I am a 31 year old student doing a B.Sc. in [Information Systems and Information Technology](https://www.usn.no/studier/bachelor-i-it-og-informasjonssystemer/) at University of South-Eastern Norway! I've been using computers since 1998 at 4 years old when my dad showed me Moto Racer (1997) on our Compaq Presario 5600. Getting to know webrings and GeoCities and such...
-
-While I might've been introduced to computers as fun, over time it has shown its potential and evergrowing utility and use among the general population, the more refined the tools have become, and I would love to partake in that journey and make IT projects that can aid workers and ease and effectivize their work. 
+I'm a 31-year-old B.Sc. student in [Information Systems and Information Technology](https://www.usn.no/studier/bachelor-i-it-og-informasjonssystemer/) at University of South-Eastern Norway! I've been using computers since age 4—starting with Moto Racer on a Compaq Presario 5600, through webrings and GeoCities. While initially just fun, I've seen how technology's potential grows as tools become more refined. I want to build IT projects that genuinely improve workflows and worker productivity.
 
 ### 🗂️ Ongoing projects
 - [Tvennings portfolio](https://scandiking.github.io/TvenningsPortfolio), an online portfolio showcasing university work. The works are divided by courses such as basic programming and system development, and further into  fractional exam qualification tests.
