@@ -40,7 +40,7 @@ I'm a 31-year-old B.Sc. student in [Information Systems and Information Technolo
 
 ### 
 
-<p align="left">
+<div align="left">
 <!-- KOTLIN icon -->
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" /></a>
 
@@ -88,4 +88,4 @@ I'm a 31-year-old B.Sc. student in [Information Systems and Information Technolo
 
 <!-- BLENDER icon -->
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a>
-                  </p>
+</div>
