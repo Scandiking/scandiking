@@ -34,11 +34,6 @@ I'm a 31-year-old B.Sc. student in [Information Systems and Information Technolo
   
 ### 🎖️ Certifications
 
-- 
-- 
-- 
-
-
 | | |
 | --- | --- |
 | <a href="https://www.credly.com/badges/4ccd8174-71d6-400c-8e2f-b476d012af9c" target="_blank"><img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1 Badge" width="64" height="64" /></a> | [Python Essentials 1](https://www.credly.com/badges/4ccd8174-71d6-400c-8e2f-b476d012af9c/public_url) |
