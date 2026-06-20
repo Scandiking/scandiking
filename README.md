@@ -15,8 +15,6 @@ I'm a 31-year-old B.Sc. student in [Information Systems and Information Technolo
 
 - [Tvennings portfolio](https://scandiking.github.io/TvenningsPortfolio), an online portfolio showcasing university work. The works are divided by courses such as basic programming and system development, and further into  fractional exam qualification tests.
 
-- [USNSSS3000R-IoT](https://github.com/Scandiking/USNSSS3000R-IoT), a Raspberry Pi project that aids in sorting waste by using image recognition
-
 - [DartBud](https://github.com/JonasELH/DartBud)
       Group course project. Planned to be `RC` with repo hosted on GitHub. Built with `Kotlin` in Android Studio. It is a calculator focused on doing the math while playing 501 darts with two players. The focus is first on developing the MVP, and then iterate it to support more functions, such as more players than the current two.
 
