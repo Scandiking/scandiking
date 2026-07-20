@@ -1,6 +1,7 @@
 ## Hi, I'm Kristian Martin Tvenning 👋 <a href="https://www.linkedin.com/in/kristian-martin-tvenning-77475773/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a>
 
-![A wide picture of a desk with a laptop, a coffee cup and a rubber duck](LinkedInBanner3.png)
+![A wide picture of a desk with a laptop, a coffee cup and a rubber duck](LinkedInBanner3.png)  
+Illustration: _Kristian Martin Tvenning_
 
 </p>
 
