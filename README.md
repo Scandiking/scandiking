@@ -1,12 +1,20 @@
-# Hello, World! 🌐
+## Hi, I'm Kristian Martin Tvenning 👋 <a href="https://www.linkedin.com/in/kristian-martin-tvenning-77475773/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a>
 
 ![A wide picture of a desk with a laptop, a coffee cup and a rubber duck](LinkedInBanner3.png)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Agency&weight=800&size=30&duration=2500&pause=2000&color=38F776&width=435&lines=Kristian+Martin+Tvenning;Scandiking)](https://git.io/typing-svg)  
+</p>
 
-<a href="https://www.linkedin.com/in/kristian-martin-tvenning-77475773/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+Recently graduated with a **B.Sc. in IT and Information Systems** (2026), building on an earlier **B.A. in Television and Multimedia Production** (2019).
 
-I'm a 31-year-old B.Sc. student in [Information Systems and Information Technology](https://www.usn.no/studier/bachelor-i-it-og-informasjonssystemer/) at University of South-Eastern Norway, currently doing an IT internship at Sparebank 1 Ringerike Hadeland through May! I've been using computers since age 4—starting with Moto Racer on a Compaq Presario 5600, through webrings and GeoCities. While initially just fun, I've seen how technology's potential grows as tools become more refined. I want to build IT projects that genuinely improve workflows and worker productivity.
+During my internship at **SpareBank1 Ringerike Hadeland**, I worked with the Microsoft Power Platform:
+- Built a Canvas app in **Power Apps**
+- Built an agent for credit case notes using **Power Automate**, **Dataverse**, **Copilot Studio**, and **Teams approval flows**
+
+I like building things that actually hold up in practice, and I'm most interested in the intersection of **tech and organization** — where a solution has to fit how people actually work, not just how the spec reads.
+
+Before this, I spent years in retail, traffic control, and security work — not directly technical, but it's where the service mindset and "own the outcome" habit came from.
+
+🔭 New grad aiming for systems development — building things that actually fit how people work. Open to how I get there.
 
 ---
 
