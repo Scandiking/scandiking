@@ -7,12 +7,12 @@
 Recently graduated with a **B.Sc. in IT and Information Systems** (2026), building on an earlier **B.A. in Television and Multimedia Production** (2019).
 
 During my internship at **SpareBank1 Ringerike Hadeland**, I worked with the Microsoft Power Platform:
-- Built a Canvas app in **Power Apps**
+- Built a Canvas ticket app in **Power Apps** for employees to order data insight
 - Built an agent for credit case notes using **Power Automate**, **Dataverse**, **Copilot Studio**, and **Teams approval flows**
 
-I like building things that actually hold up in practice, and I'm most interested in the intersection of **tech and organization** — where a solution has to fit how people actually work, not just how the spec reads.
+I like building things that actually hold up in practice, and I'm most interested in the intersection of **tech and organization** where a solution has to fit how people actually work, not just how the spec reads and retroactively fitting it.
 
-Before this, I spent years in retail, traffic control, and security work — not directly technical, but it's where the service mindset and "own the outcome" habit came from.
+Before this, I spent years in retail, traffic control, and security work. While admittedly not directly technical, but it's where the service mindset and "own the outcome" habit came from.
 
 🔭 New grad aiming for systems development — building things that actually fit how people work. Open to how I get there.
 
