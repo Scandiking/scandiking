@@ -46,12 +46,14 @@ Before this, I spent years in retail, traffic control, and security work. While 
   
 ### 🎖️ Certifications
 
-| | |
 | --- | --- |
 | <a href="https://www.credly.com/badges/4ccd8174-71d6-400c-8e2f-b476d012af9c" target="_blank"><img src="https://images.credly.com/size/340x340/images/68c0b94d-f6ac-40b1-a0e0-921439eb092e/image.png" alt="Python Essentials 1 Badge" width="64" height="64" /></a> | [Python Essentials 1](https://www.credly.com/badges/4ccd8174-71d6-400c-8e2f-b476d012af9c/public_url) |
 | <a href="https://www.credly.com/badges/80742f50-e70f-4838-bbf8-a0f3ee71a67a" target="_blank"><img src="https://images.credly.com/size/340x340/images/b93bf373-3da6-4ada-9879-a0c39d6a11f8/image.png" alt="JavaScript Essentials 1 Badge" width="64" height="64" /></a>| [JavaScript Essentials 1](JavaScriptEssentials1Update20250224-28-t9r9h2.pdf) |
-| <a href="https://github.com/Scandiking/scandiking/blob/master/USN-AZ900-2025-003.pdf" target="_blank"><img src="https://kagi.com/proxy/1649839178239?c=d7Hu1iRd9QOtfcPjG7-7fh0NfssQ6NFvx4iBi22Ev68pKf4UI0h0mxtl6lBKrMHZ8WiLk1yDztlDyHuZRMN6JgAZgfF5Qw5g0q6feG2IhMouvdPrzmtPiM4-JXetWtcH7y1c-BTep9uTPtGgpQjJXH3P044YXkkWulZQdjtiY0YK8h5sTRQQhZ3pPyMN0rZgZo5lzLLQO_pNxodJFEpC2K57ZsEA7DqsL2Wm9CBGNjZxrO4AIDe1ladVpIK1A7LvfLssi4BhhzoaYlcJYGLRTT5WRC9o1UylAA_VwXZ33-s%3D" alt="AZ900 Badge" width="64" height="64"/></a> | [Microsoft AZ-900](USN-AZ900-2025-003.pdf) |
 | | [Programming Hub Python 3](certificate_1707419695401.pdf) |
+
+### Courses
+| --- | --- |
+| <a href="https://github.com/Scandiking/scandiking/blob/master/USN-AZ900-2025-003.pdf" target="_blank"><img src="https://kagi.com/proxy/1649839178239?c=d7Hu1iRd9QOtfcPjG7-7fh0NfssQ6NFvx4iBi22Ev68pKf4UI0h0mxtl6lBKrMHZ8WiLk1yDztlDyHuZRMN6JgAZgfF5Qw5g0q6feG2IhMouvdPrzmtPiM4-JXetWtcH7y1c-BTep9uTPtGgpQjJXH3P044YXkkWulZQdjtiY0YK8h5sTRQQhZ3pPyMN0rZgZo5lzLLQO_pNxodJFEpC2K57ZsEA7DqsL2Wm9CBGNjZxrO4AIDe1ladVpIK1A7LvfLssi4BhhzoaYlcJYGLRTT5WRC9o1UylAA_VwXZ33-s%3D" alt="AZ900 Badge" width="64" height="64"/></a> | [Microsoft AZ-900](USN-AZ900-2025-003.pdf) |
 
 
 
@@ -87,7 +89,7 @@ Before this, I spent years in retail, traffic control, and security work. While 
 <!-- ILLUSTRATOR icon -->
 <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a>
 <!-- PREMIERE icon -->
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" alt="Premiere Pro" title="Premiere Pro" width="36" height="36" /></a>
 <!-- BLENDER icon -->
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" title="Blender" width="36" height="36" /></a>
 </div>
