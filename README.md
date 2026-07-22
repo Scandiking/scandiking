@@ -32,17 +32,6 @@ Before this, I spent years in retail, traffic control, and security work. While 
 
 ### 🗄️ Former projects
 - [Landlosen](https://github.com/Scandiking/Landlosen), a project as a basis for a technical interview for an internship at [SmartGIS](https://smartgis.no). It retrieves country information from [RestCountries](https://restcountries.com) API and serves it in a SvelteKit application.
-- [Task management app Næg](https://github.com/Scandiking/N-g)
-      Group course project. Planned to be `RC` with repo hosted on GitHub and live on Azure. Built on `React` and using [MUI](https://mui.com/) as base for the front-end
-- [Email API](https://github.com/Scandiking/emailAPIserver) in OBJ2100 (object-oriented programming 2)  
-      Course project in order to qualify for exam.
-- [Task management API](https://github.com/Scandiking/taskmanager) in APP2000 (app development)  
-      Course project in order to qualify for exam. Relevant for the endpoints of [Næg](https://github.com/Scandiking/N-g)
-- [Garmin Connect alternative front-end](https://github.com/Scandiking/GarminConnectMaterialDesignReactFrontend) using React and MUI (course project 1/2 in APP2000)
-- [SQL notes](https://github.com/Scandiking/DAT2K_tutorials) (DAT200, advanced database course)
-- [Tasks from the course book](https://github.com/Scandiking/Liang-Chapter-9) in OBJ2100 (Object oriented programming)
-- [Repos for days](https://github.com/Scandiking?tab=repositories)
-
   
 ### 🎖️ Certifications
 | | |
