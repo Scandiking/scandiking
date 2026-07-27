@@ -13,9 +13,9 @@ During my internship at **SpareBank1 Ringerike Hadeland**, I worked with the Mic
 
 I like building things that actually hold up in practice, and I'm most interested in the intersection of **tech and organization** where a solution has to fit how people actually work, not just how the spec reads and retroactively fitting it.
 
-Before this, I spent years in retail, traffic control, and security work. While admittedly not directly technical, but it's where the service mindset and "own the outcome" habit came from.
+Before this, I spent years in retail, traffic control, and private security. While admittedly those positions are not directly technical, it's where the service mindset and "own the outcome" habit came from.
 
-🔭 New grad aiming for systems development — building things that actually fit how people work. Open to how I get there.
+🔭 New grad aiming for systems development: building things that actually fit how people work. Open to how I get there.
 
 ---
 
