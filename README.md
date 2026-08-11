@@ -21,10 +21,10 @@ Before this, I spent years in retail, traffic control, and private security. Whi
 
 ### 🗂️ Ongoing projects
 
-
-- [Tvennings portfolio](https://scandiking.github.io/TvenningsPortfolio), an online portfolio showcasing university work. The works are divided by courses such as basic programming and system development, and further into  fractional exam qualification tests.
-
 - [Defang](https://github.com/Scandiking/Defang), an Android launcher focusing on digital minimalism. By being a speed bump in the cue-reward-path FAANG-applications weaponizes to make you addicted, you get to take a deliberate choice in whether you want waste time on advertisements, or do something better with your life.
+Now live on F-Droid!
+  
+- [Tvennings portfolio](https://scandiking.github.io/TvenningsPortfolio), an online portfolio showcasing university work. The works are divided by courses such as basic programming and system development, and further into  fractional exam qualification tests.
 
 - [Meløyvær](https://github.com/Scandiking/Mel-yv-r), a weather SPA written in React, featuring tidal levels. Data gathered from MET API. 
 
