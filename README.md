@@ -32,7 +32,7 @@ Now live on F-Droid!
 
 ### 🗄️ Former projects
 - [Landlosen](https://github.com/Scandiking/Landlosen), a project as a basis for a technical interview for an internship at [SmartGIS](https://smartgis.no). It retrieves country information from [RestCountries](https://restcountries.com) API and serves it in a SvelteKit application.
-- > [!IMPORTANT] They redid how the API works, so unfortunately no info will load, due to code being made for the old API.
+> [!IMPORTANT] They redid how the API works, so unfortunately no info will load, due to code being made for the old API.
   
 ### 🎖️ Certifications
 | | |
