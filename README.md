@@ -15,8 +15,7 @@ I like building things that actually hold up in practice, and I'm most intereste
 
 Before this, I spent years in retail, traffic control, and private security. While admittedly those positions are not directly technical, it's where the service mindset and "own the outcome" habit came from.
 
-🔭 New grad aiming for systems development: building things that actually fit how people work. Open to how I get there.
-
+New grad aiming for systems development: building things that actually fit how people work. 
 ---
 
 ### 🗂️ Ongoing projects
