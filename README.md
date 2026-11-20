@@ -25,6 +25,8 @@ Now live on F-Droid!
   
 - [Tvennings portfolio](https://scandiking.github.io/TvenningsPortfolio), an online portfolio showcasing university work. The works are divided by courses such as basic programming and system development, and further into  fractional exam qualification tests.
 
+- [Vekteren.xyz](https://vekteren.xyz), a website about weight loss with no affiliate linking, upsale, subscription services or popups - simply good old fashioned true-and-tried advice! With high-quality sources.
+
 - [Meløyvær](https://github.com/Scandiking/Mel-yv-r), a weather SPA written in React, featuring tidal levels. Data gathered from MET API. 
 
 ---
